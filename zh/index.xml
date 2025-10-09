@@ -7,6 +7,7 @@
 &lt;li>暂时不影响 Go v1.18/v1.19 编译，但声明到高版本后，后续版本会引入高版本特性&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;strong>部分接口调整&lt;/strong>：对普通使用的用户无影响，但如果有扩展或特殊依赖会有影响，详见[&lt;strong>特殊变更&lt;/strong>]部分&lt;/li>
 &lt;/ol>
 &lt;h3 id="新特性">&lt;strong>新特性&lt;/strong>&lt;/h3>
 &lt;ol>
